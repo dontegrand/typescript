@@ -35,7 +35,7 @@ function addUnit(one: string | number, two: string | number) {
   return one + two
 }
 
-// 用instanceof 做类型保护
+// 用 instanceof 做类型保护
 class NumberObj {
   count: number
 }
